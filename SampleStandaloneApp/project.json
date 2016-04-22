@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0-*",
+  
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+  
+  "dependencies": {
+    "NETStandard.Library": "1.5.0-*",
+    "dotnet-my-tool": {
+      "version": "1.0.0-*",
+      "target": "package",
+      "type": "build"
+    }
+  },
+  
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": "portable-net452+win81"
+    }
+  },
+  
+  "runtimes": {
+    "osx.10.11-x64": {},
+    "win10-x64": {}
+  },
+  
+  "tools": {
+    "dotnet-my-tool": {
+      "version": "1.0.0-*",
+      "imports": "portable-net452+win81"
+    }
+  }
+}
