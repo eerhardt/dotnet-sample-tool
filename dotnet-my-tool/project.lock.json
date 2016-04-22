@@ -175,14 +175,14 @@
           "lib/netstandard1.5/Microsoft.Extensions.DependencyModel.dll": {}
         }
       },
-      "Microsoft.Extensions.FileSystemGlobbing/1.0.0-rc2-20581": {
+      "Microsoft.Extensions.FileSystemGlobbing/1.0.0-rc2-20638": {
         "type": "package",
         "dependencies": {
-          "System.Collections": "4.0.11-rc2-24008",
-          "System.IO.FileSystem": "4.0.1-rc2-24008",
-          "System.Linq": "4.1.0-rc2-24008",
-          "System.Resources.ResourceManager": "4.0.1-rc2-24008",
-          "System.Runtime.Extensions": "4.1.0-rc2-24008"
+          "System.Collections": "4.0.11-rc2-24018",
+          "System.IO.FileSystem": "4.0.1-rc2-24018",
+          "System.Linq": "4.1.0-rc2-24018",
+          "System.Resources.ResourceManager": "4.0.1-rc2-24018",
+          "System.Runtime.Extensions": "4.1.0-rc2-24018"
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.dll": {}
@@ -191,20 +191,20 @@
           "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.dll": {}
         }
       },
-      "Microsoft.Extensions.PlatformAbstractions/1.0.0-rc2-20581": {
+      "Microsoft.Extensions.PlatformAbstractions/1.0.0-rc2-20621": {
         "type": "package",
         "dependencies": {
-          "System.AppContext": "4.1.0-rc2-24008",
-          "System.IO.FileSystem": "4.0.1-rc2-24008",
-          "System.Linq": "4.1.0-rc2-24008",
-          "System.Reflection": "4.1.0-rc2-24008",
-          "System.Reflection.Extensions": "4.0.1-rc2-24008",
-          "System.Reflection.TypeExtensions": "4.1.0-rc2-24008",
-          "System.Resources.ResourceManager": "4.0.1-rc2-24008",
-          "System.Runtime.Extensions": "4.1.0-rc2-24008",
-          "System.Runtime.InteropServices": "4.1.0-rc2-24008",
-          "System.Runtime.InteropServices.RuntimeInformation": "4.0.0-rc2-24008",
-          "System.Threading.Tasks": "4.0.11-rc2-24008"
+          "System.AppContext": "4.1.0-rc2-24018",
+          "System.IO.FileSystem": "4.0.1-rc2-24018",
+          "System.Linq": "4.1.0-rc2-24018",
+          "System.Reflection": "4.1.0-rc2-24018",
+          "System.Reflection.Extensions": "4.0.1-rc2-24018",
+          "System.Reflection.TypeExtensions": "4.1.0-rc2-24018",
+          "System.Resources.ResourceManager": "4.0.1-rc2-24018",
+          "System.Runtime.Extensions": "4.1.0-rc2-24018",
+          "System.Runtime.InteropServices": "4.1.0-rc2-24018",
+          "System.Runtime.InteropServices.RuntimeInformation": "4.0.0-rc2-24018",
+          "System.Threading.Tasks": "4.0.11-rc2-24018"
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll": {}
@@ -2349,14 +2349,14 @@
           "lib/netstandard1.5/Microsoft.Extensions.DependencyModel.dll": {}
         }
       },
-      "Microsoft.Extensions.FileSystemGlobbing/1.0.0-rc2-20581": {
+      "Microsoft.Extensions.FileSystemGlobbing/1.0.0-rc2-20638": {
         "type": "package",
         "dependencies": {
-          "System.Collections": "4.0.11-rc2-24008",
-          "System.IO.FileSystem": "4.0.1-rc2-24008",
-          "System.Linq": "4.1.0-rc2-24008",
-          "System.Resources.ResourceManager": "4.0.1-rc2-24008",
-          "System.Runtime.Extensions": "4.1.0-rc2-24008"
+          "System.Collections": "4.0.11-rc2-24018",
+          "System.IO.FileSystem": "4.0.1-rc2-24018",
+          "System.Linq": "4.1.0-rc2-24018",
+          "System.Resources.ResourceManager": "4.0.1-rc2-24018",
+          "System.Runtime.Extensions": "4.1.0-rc2-24018"
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.dll": {}
@@ -2365,20 +2365,20 @@
           "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.dll": {}
         }
       },
-      "Microsoft.Extensions.PlatformAbstractions/1.0.0-rc2-20581": {
+      "Microsoft.Extensions.PlatformAbstractions/1.0.0-rc2-20621": {
         "type": "package",
         "dependencies": {
-          "System.AppContext": "4.1.0-rc2-24008",
-          "System.IO.FileSystem": "4.0.1-rc2-24008",
-          "System.Linq": "4.1.0-rc2-24008",
-          "System.Reflection": "4.1.0-rc2-24008",
-          "System.Reflection.Extensions": "4.0.1-rc2-24008",
-          "System.Reflection.TypeExtensions": "4.1.0-rc2-24008",
-          "System.Resources.ResourceManager": "4.0.1-rc2-24008",
-          "System.Runtime.Extensions": "4.1.0-rc2-24008",
-          "System.Runtime.InteropServices": "4.1.0-rc2-24008",
-          "System.Runtime.InteropServices.RuntimeInformation": "4.0.0-rc2-24008",
-          "System.Threading.Tasks": "4.0.11-rc2-24008"
+          "System.AppContext": "4.1.0-rc2-24018",
+          "System.IO.FileSystem": "4.0.1-rc2-24018",
+          "System.Linq": "4.1.0-rc2-24018",
+          "System.Reflection": "4.1.0-rc2-24018",
+          "System.Reflection.Extensions": "4.0.1-rc2-24018",
+          "System.Reflection.TypeExtensions": "4.1.0-rc2-24018",
+          "System.Resources.ResourceManager": "4.0.1-rc2-24018",
+          "System.Runtime.Extensions": "4.1.0-rc2-24018",
+          "System.Runtime.InteropServices": "4.1.0-rc2-24018",
+          "System.Runtime.InteropServices.RuntimeInformation": "4.0.0-rc2-24018",
+          "System.Threading.Tasks": "4.0.11-rc2-24018"
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.Extensions.PlatformAbstractions.dll": {}
@@ -3947,11 +3947,11 @@
         "lib/netstandard1.5/Microsoft.Extensions.DependencyModel.dll"
       ]
     },
-    "Microsoft.Extensions.FileSystemGlobbing/1.0.0-rc2-20581": {
-      "sha512": "KNbwnKDjHxm8IUC5/sWuR+c0sjHSC6kWQLHTIw8Ls2NbIwETfrzTXPpW8KCPx3G6jyT9IDNL+EfghVbJM44mQA==",
+    "Microsoft.Extensions.FileSystemGlobbing/1.0.0-rc2-20638": {
+      "sha512": "0NVYpTTYxrSavj6SCsdDGYy9EKrL9THd41nPTQnL3tDmad2u31YIfyMhjcKjDcYDff+rgfDudpGhlXDyP66f5Q==",
       "type": "package",
       "files": [
-        "Microsoft.Extensions.FileSystemGlobbing.1.0.0-rc2-20581.nupkg.sha512",
+        "Microsoft.Extensions.FileSystemGlobbing.1.0.0-rc2-20638.nupkg.sha512",
         "Microsoft.Extensions.FileSystemGlobbing.nuspec",
         "lib/net451/Microsoft.Extensions.FileSystemGlobbing.dll",
         "lib/net451/Microsoft.Extensions.FileSystemGlobbing.xml",
@@ -3959,11 +3959,11 @@
         "lib/netstandard1.3/Microsoft.Extensions.FileSystemGlobbing.xml"
       ]
     },
-    "Microsoft.Extensions.PlatformAbstractions/1.0.0-rc2-20581": {
-      "sha512": "qKxszfRRc5O6pHf5TxJ5McZShxDOAADuPmjb0j5jdeq8+ejDnxbF9Gn0inYyRsSuj7z3uc0lIpFBRc88FYrS5w==",
+    "Microsoft.Extensions.PlatformAbstractions/1.0.0-rc2-20621": {
+      "sha512": "ShiZxwfBZIpj7qUtf5Ygu+GXmrwMy1gorQu/u6L3nPNLEd7/c/i1LaN3UlJloZxOXjhQhEJuMfZvCY78G23d0g==",
       "type": "package",
       "files": [
-        "Microsoft.Extensions.PlatformAbstractions.1.0.0-rc2-20581.nupkg.sha512",
+        "Microsoft.Extensions.PlatformAbstractions.1.0.0-rc2-20621.nupkg.sha512",
         "Microsoft.Extensions.PlatformAbstractions.nuspec",
         "lib/net451/Microsoft.Extensions.PlatformAbstractions.dll",
         "lib/net451/Microsoft.Extensions.PlatformAbstractions.xml",
