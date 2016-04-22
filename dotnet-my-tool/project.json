@@ -3,12 +3,10 @@
   "compilationOptions": {
     "emitEntryPoint": true
   },
-  
   "dependencies": {
     "Microsoft.DotNet.Cli.Utils": "1.0.0-*",
     "Microsoft.DotNet.ProjectModel": "1.0.0-*"
   },
-  
   "frameworks": {
     "netcoreapp1.0": {
       "imports": [
@@ -19,6 +17,14 @@
           "type": "platform",
           "version": "1.0.0-*"
         }
+      }
+    },
+    "netstandard1.5": {
+      "imports": [
+        "portable-net451+win8+dnxcore50"
+      ],
+      "dependencies": {
+        "NETStandard.Library": "1.5.0-*"
       }
     }
   }
