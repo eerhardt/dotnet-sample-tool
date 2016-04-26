@@ -18,18 +18,10 @@ if (!(Test-Path artifacts)) {
 
 & $dotnet pack dotnet-my-tool/ --version-suffix $v --output artifacts/
 
-pushd SampleStandaloneApp
+pushd SamplePortableApp
 
     & $dotnet restore -f ../artifacts/ --verbosity minimal
     & $dotnet run
-    & $dotnet --verbose my-tool
-
-popd
-
-pushd SampleLibrary
-
-    & $dotnet restore -f ../artifacts/ --verbosity minimal
-    & $dotnet build
-    & $dotnet --verbose my-tool
+    & $dotnet --verbose my-tool --build-base-path ..\artifacts\
 
 popd

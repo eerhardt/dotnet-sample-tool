@@ -6,7 +6,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! My standalone app works.");
+            Console.WriteLine("Hello World! My portable app works.");
         }
     }
 }
